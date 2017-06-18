@@ -1,11 +1,11 @@
-##Description:
+## Description:
 
-The second assignment from the week three of coursera's stanford Machine learning course.
+The second assignment from the week three of Stanford University Machine learning coursera course.
 
 In this assignment, Prof.Andrew Ng discusses about logistical regression and regularization of these regression to negate any kind of wrong approximation--overfitting and under-fitting.
 
 
-#Scores: 
+# Scores: 
 *                                  Part Name |     Score | Feedback
 *                           Sigmoid Function |   5 /   5 | Nice work!
 *                   Logistic Regression Cost |  30 /  30 | Nice work!
